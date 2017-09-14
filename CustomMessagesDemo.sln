@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C305F410-4EF6-4D30-8CB2-6662308D0FB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{23C5A540-8D8E-4FFD-9FFA-011826B4E6A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomMessagesDemo", "src\CustomMessagesDemo\CustomMessagesDemo.csproj", "{730C5BF6-8D56-41AC-8AE7-41CC11D46C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730C5BF6-8D56-41AC-8AE7-41CC11D46C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730C5BF6-8D56-41AC-8AE7-41CC11D46C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730C5BF6-8D56-41AC-8AE7-41CC11D46C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730C5BF6-8D56-41AC-8AE7-41CC11D46C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{730C5BF6-8D56-41AC-8AE7-41CC11D46C34} = {C305F410-4EF6-4D30-8CB2-6662308D0FB4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62AD6FD3-CBC7-45B5-B11F-945BA61F6AC8}
+	EndGlobalSection
+EndGlobal
